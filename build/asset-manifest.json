@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a14792a.css",
+    "main.js": "/static/js/main.15ec88e8.js",
+    "static/media/visa.png": "/static/media/visa.8693d05cab873470e349.png",
+    "static/media/vanilla.png": "/static/media/vanilla.7beeb2b2119997fabf02.png",
+    "static/media/apple-ma.png": "/static/media/apple-ma.4c8a63a7ac903856e606.png",
+    "static/media/005.png": "/static/media/005.0d065c619f1fc94eb535.png",
+    "static/media/parrallex-img.jpeg": "/static/media/parrallex-img.54de1143861ff2c1dd6c.jpeg",
+    "static/media/ebay-gift.jpeg": "/static/media/ebay-gift.895e9eb537b56de6550d.jpeg",
+    "static/media/amazon-ma.png": "/static/media/amazon-ma.180cd4f917a7b1b1991b.png",
+    "static/media/ebay.png": "/static/media/ebay.7c7531f90cd5c2d436b2.png",
+    "static/media/amazon.png": "/static/media/amazon.efb2c5dcd3d415c2f2cc.png",
+    "static/media/apple.jpg": "/static/media/apple.ea2b9ad6ba9540e410df.jpg",
+    "index.html": "/index.html",
+    "main.3a14792a.css.map": "/static/css/main.3a14792a.css.map",
+    "main.15ec88e8.js.map": "/static/js/main.15ec88e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a14792a.css",
+    "static/js/main.15ec88e8.js"
+  ]
+}
